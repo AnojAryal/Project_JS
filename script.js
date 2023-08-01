@@ -3,7 +3,7 @@ function greet() {
     alert(`Hello, ${name}! Welcome to My Project!`);
 }
 
-// Call the greet function when the page loads
+
 window.onload = function() {
     greet();
 }
